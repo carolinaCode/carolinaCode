@@ -10,6 +10,6 @@
   <img align="center" alt="Php" height="30" width="40"
      src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
   <img align="center" alt="Php" height="30" width="40"
-     src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">
+     src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg">
 </div>
 
